@@ -1,0 +1,9 @@
+.jumbotron {
+  display: flex;
+  align-items: center;
+  background-image: url('https://64.media.tumblr.com/6244d7c565283addffd58380a5c23309/tumblr_nnozvnkRtE1uuzayro1_1280.gif');
+  background-size: cover;
+  color: #ffffff;
+  height: 500px;
+  text-shadow: 0.25px 0.25px 0.25px #000000;
+}
